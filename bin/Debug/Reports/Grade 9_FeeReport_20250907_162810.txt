@@ -1,0 +1,31 @@
+﻿================================================================================
+FEE REPORT - Grade 9 - A
+Academic Year: 2025
+Generated: 2025-09-07 16:28:10
+================================================================================
+
+SUMMARY:
+Total Students: 2
+Total Fees: 2
+Total Fees Amount: $10,000.00
+Total Paid: $6,000.00
+Total Outstanding: $4,000.00
+Payment Progress: 60.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Grace Gathoni (ID: 6)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $10,000.00 | Paid: $6,000.00 | Outstanding: $4,000.00 | Progress: 60.0%
+Fee Details:
+  ◐ Miscellaneous - $10,000.00 (Paid: $6,000.00) Due:  Status: PartiallyPaid
+
+Student: Sang Kiptoo (ID: 13)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $0.00 | Paid: $0.00 | Outstanding: $0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - $0.00 (Paid: $0.00) Due:  Status: Paid
+

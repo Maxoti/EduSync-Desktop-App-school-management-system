@@ -1,0 +1,2 @@
+﻿StudentID,StudentName,Email,EnrollmentDate,FeeType,Amount,AmountPaid,Outstanding,PaymentPercentage,DueDate,Status,Description
+1,"Liam Bray",,0001-01-01,Tuition,6000.00,4000.00,2000.00,66.67,,PartiallyPaid,""

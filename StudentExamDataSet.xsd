@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StudentExamDataSet" targetNamespace="http://tempuri.org/StudentExamDataSet.xsd" xmlns:mstns="http://tempuri.org/StudentExamDataSet.xsd" xmlns="http://tempuri.org/StudentExamDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="StudentExamDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="StudentExamDataSet" msprop:Generator_DataSetName="StudentExamDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="StudentExamDataSet" msprop:Generator_RowEvHandlerName="StudentExamDataSetRowChangeEventHandler" msprop:Generator_RowDeletedName="StudentExamDataSetRowDeleted" msprop:Generator_RowDeletingName="StudentExamDataSetRowDeleting" msprop:Generator_RowEvArgName="StudentExamDataSetRowChangeEvent" msprop:Generator_TablePropName="_StudentExamDataSet" msprop:Generator_RowChangedName="StudentExamDataSetRowChanged" msprop:Generator_RowChangingName="StudentExamDataSetRowChanging" msprop:Generator_TableClassName="StudentExamDataSetDataTable" msprop:Generator_RowClassName="StudentExamDataSetRow" msprop:Generator_TableVarName="tableStudentExamDataSet" msprop:Generator_UserTableName="StudentExamDataSet">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LearningArea" msprop:Generator_ColumnPropNameInRow="LearningArea" msprop:Generator_ColumnPropNameInTable="LearningAreaColumn" msprop:Generator_ColumnVarNameInTable="columnLearningArea" msprop:Generator_UserColumnName="LearningArea" type="xs:string" minOccurs="0" />
+              <xs:element name="Opener" msprop:Generator_ColumnPropNameInRow="Opener" msprop:Generator_ColumnPropNameInTable="OpenerColumn" msprop:Generator_ColumnVarNameInTable="columnOpener" msprop:Generator_UserColumnName="Opener" type="xs:string" minOccurs="0" />
+              <xs:element name="Midterm" msprop:Generator_ColumnPropNameInRow="Midterm" msprop:Generator_ColumnPropNameInTable="MidtermColumn" msprop:Generator_ColumnVarNameInTable="columnMidterm" msprop:Generator_UserColumnName="Midterm" type="xs:string" minOccurs="0" />
+              <xs:element name="Endterm" msprop:Generator_ColumnPropNameInRow="Endterm" msprop:Generator_ColumnPropNameInTable="EndtermColumn" msprop:Generator_ColumnVarNameInTable="columnEndterm" msprop:Generator_UserColumnName="Endterm" type="xs:string" minOccurs="0" />
+              <xs:element name="OpenerPoints" msprop:Generator_ColumnPropNameInRow="OpenerPoints" msprop:Generator_ColumnPropNameInTable="OpenerPointsColumn" msprop:Generator_ColumnVarNameInTable="columnOpenerPoints" msprop:Generator_UserColumnName="OpenerPoints" type="xs:string" minOccurs="0" />
+              <xs:element name="OpenerLevel" msprop:Generator_ColumnPropNameInRow="OpenerLevel" msprop:Generator_ColumnPropNameInTable="OpenerLevelColumn" msprop:Generator_ColumnVarNameInTable="columnOpenerLevel" msprop:Generator_UserColumnName="OpenerLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="MidtermPoints" msprop:Generator_ColumnPropNameInRow="MidtermPoints" msprop:Generator_ColumnPropNameInTable="MidtermPointsColumn" msprop:Generator_ColumnVarNameInTable="columnMidtermPoints" msprop:Generator_UserColumnName="MidtermPoints" type="xs:string" minOccurs="0" />
+              <xs:element name="MidtermLevel" msprop:Generator_ColumnPropNameInRow="MidtermLevel" msprop:Generator_ColumnPropNameInTable="MidtermLevelColumn" msprop:Generator_ColumnVarNameInTable="columnMidtermLevel" msprop:Generator_UserColumnName="MidtermLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="EndtermPoints" msprop:Generator_ColumnPropNameInRow="EndtermPoints" msprop:Generator_ColumnPropNameInTable="EndtermPointsColumn" msprop:Generator_ColumnVarNameInTable="columnEndtermPoints" msprop:Generator_UserColumnName="EndtermPoints" type="xs:string" minOccurs="0" />
+              <xs:element name="EndtermLevel" msprop:Generator_ColumnPropNameInRow="EndtermLevel" msprop:Generator_ColumnPropNameInTable="EndtermLevelColumn" msprop:Generator_ColumnVarNameInTable="columnEndtermLevel" msprop:Generator_UserColumnName="EndtermLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="DataColumn1" msprop:Generator_ColumnPropNameInRow="DataColumn1" msprop:Generator_ColumnPropNameInTable="DataColumn1Column" msprop:Generator_ColumnVarNameInTable="columnDataColumn1" msprop:Generator_UserColumnName="DataColumn1" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

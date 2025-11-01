@@ -1,0 +1,2 @@
+﻿StudentID,StudentName,Email,EnrollmentDate,FeeType,AmountKSH,AmountPaidKSH,OutstandingKSH,PaymentPercentage,DueDate,Status,Description
+14,"James Ouma",,0001-01-01,Miscellaneous,0.00,0.00,0.00,0.00,,Paid,""

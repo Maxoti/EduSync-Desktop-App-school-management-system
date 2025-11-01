@@ -1,0 +1,53 @@
+﻿================================================================================
+FEE REPORT - Grade 6 - A
+Academic Year: 2025
+Generated: 2025-09-11 15:06:32
+Currency: Kenyan Shilling (KSH) - Exchange Rate: 1 USD = KSh 129.0595
+================================================================================
+
+SUMMARY:
+Total Students: 5
+Total Fees: 5
+Total Fees Amount: KSh 22,000.00
+Total Paid: KSh 11,000.00
+Total Outstanding: KSh 11,000.00
+Payment Progress: 50.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Alex Mbatha (ID: 4)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: KSh 14,000.00 | Paid: KSh 6,000.00 | Outstanding: KSh 8,000.00 | Progress: 42.9%
+Fee Details:
+  ◐ Miscellaneous - KSh 14,000.00 (Paid: KSh 6,000.00) Due:  Status: PartiallyPaid
+
+Student: Donnel Kassim (ID: 5)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: KSh 8,000.00 | Paid: KSh 5,000.00 | Outstanding: KSh 3,000.00 | Progress: 62.5%
+Fee Details:
+  ◐ Tuition - KSh 8,000.00 (Paid: KSh 5,000.00) Due:  Status: PartiallyPaid
+
+Student: Elian Gichuki (ID: 9)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: KSh 0.00 | Paid: KSh 0.00 | Outstanding: KSh 0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - KSh 0.00 (Paid: KSh 0.00) Due:  Status: Paid
+
+Student: Jasmine June (ID: 10)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: KSh 0.00 | Paid: KSh 0.00 | Outstanding: KSh 0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - KSh 0.00 (Paid: KSh 0.00) Due:  Status: Paid
+
+Student: Jenelle Wangari (ID: 11)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: KSh 0.00 | Paid: KSh 0.00 | Outstanding: KSh 0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - KSh 0.00 (Paid: KSh 0.00) Due:  Status: Paid
+

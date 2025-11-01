@@ -1,0 +1,3 @@
+﻿StudentID,StudentName,Email,EnrollmentDate,FeeType,Amount,AmountPaid,Outstanding,PaymentPercentage,DueDate,Status,Description
+6,"Grace Gathoni",,0001-01-01,Miscellaneous,10000.00,6000.00,4000.00,60.00,,PartiallyPaid,""
+13,"Sang Kiptoo",,0001-01-01,Miscellaneous,0.00,0.00,0.00,0.00,,Paid,""

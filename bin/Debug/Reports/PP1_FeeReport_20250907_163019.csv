@@ -1,0 +1,2 @@
+﻿StudentID,StudentName,Email,EnrollmentDate,FeeType,Amount,AmountPaid,Outstanding,PaymentPercentage,DueDate,Status,Description
+2,"Aron Mwai",,0001-01-01,Tuition,7000.00,3500.00,3500.00,50.00,,PartiallyPaid,""

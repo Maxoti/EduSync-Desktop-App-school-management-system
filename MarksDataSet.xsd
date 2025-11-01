@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MarksDataSet" targetNamespace="http://tempuri.org/MarksDataSet.xsd" xmlns:mstns="http://tempuri.org/MarksDataSet.xsd" xmlns="http://tempuri.org/MarksDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="EduSyncConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="EduSyncConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.EduSync.Properties.Settings.GlobalReference.Default.EduSyncConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MarksDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="MarksDataSet" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="MarksDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MarksDataSet" msprop:Generator_RowClassName="MarksDataSetRow" msprop:Generator_RowEvHandlerName="MarksDataSetRowChangeEventHandler" msprop:Generator_RowDeletedName="MarksDataSetRowDeleted" msprop:Generator_RowDeletingName="MarksDataSetRowDeleting" msprop:Generator_RowEvArgName="MarksDataSetRowChangeEvent" msprop:Generator_TablePropName="_MarksDataSet" msprop:Generator_RowChangedName="MarksDataSetRowChanged" msprop:Generator_UserTableName="MarksDataSet" msprop:Generator_RowChangingName="MarksDataSetRowChanging" msprop:Generator_TableClassName="MarksDataSetDataTable" msprop:Generator_TableVarName="tableMarksDataSet">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StudentID" msprop:Generator_UserColumnName="StudentID" msprop:Generator_ColumnPropNameInTable="StudentIDColumn" msprop:Generator_ColumnPropNameInRow="StudentID" msprop:Generator_ColumnVarNameInTable="columnStudentID" type="xs:string" minOccurs="0" />
+              <xs:element name="LearningArea" msprop:Generator_UserColumnName="LearningArea" msprop:Generator_ColumnPropNameInTable="LearningAreaColumn" msprop:Generator_ColumnPropNameInRow="LearningArea" msprop:Generator_ColumnVarNameInTable="columnLearningArea" type="xs:string" minOccurs="0" />
+              <xs:element name="Marks" msprop:Generator_UserColumnName="Marks" msprop:Generator_ColumnPropNameInTable="MarksColumn" msprop:Generator_ColumnPropNameInRow="Marks" msprop:Generator_ColumnVarNameInTable="columnMarks" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalMarks" msprop:Generator_UserColumnName="TotalMarks" msprop:Generator_ColumnPropNameInTable="TotalMarksColumn" msprop:Generator_ColumnPropNameInRow="TotalMarks" msprop:Generator_ColumnVarNameInTable="columnTotalMarks" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,2 @@
+﻿StudentID,StudentName,Email,EnrollmentDate,FeeType,Amount,AmountPaid,Outstanding,PaymentPercentage,DueDate,Status,Description
+8,"Ethan Langat",,0001-01-01,Miscellaneous,0,0.00,0.00,0.00,,Paid,""

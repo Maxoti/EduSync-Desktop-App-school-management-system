@@ -1,0 +1,25 @@
+﻿================================================================================
+FEE REPORT - Grade 3 - A
+Academic Year: 2025
+Generated: 2025-09-13 19:39:08
+Currency: Kenyan Shilling (KSH) - Exchange Rate: 1 USD = KSh 129.0595
+================================================================================
+
+SUMMARY:
+Total Students: 1
+Total Fees: 1
+Total Fees Amount: KSh 0.00
+Total Paid: KSh 0.00
+Total Outstanding: KSh 0.00
+Payment Progress: 0.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: John Ngure (ID: 12)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: KSh 0.00 | Paid: KSh 0.00 | Outstanding: KSh 0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - KSh 0.00 (Paid: KSh 0.00) Due:  Status: Paid
+

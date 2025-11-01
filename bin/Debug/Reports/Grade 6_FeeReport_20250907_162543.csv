@@ -1,0 +1,6 @@
+﻿StudentID,StudentName,Email,EnrollmentDate,FeeType,Amount,AmountPaid,Outstanding,PaymentPercentage,DueDate,Status,Description
+4,"Alex Mbatha",,0001-01-01,Miscellaneous,14000.00,6000.00,8000.00,42.86,,PartiallyPaid,""
+5,"Donnel Kassim",,0001-01-01,Tuition,8000.00,5000.00,3000.00,62.50,,PartiallyPaid,""
+9,"Elian Gichuki",,0001-01-01,Miscellaneous,0.00,0.00,0.00,0.00,,Paid,""
+10,"Jasmine June",,0001-01-01,Miscellaneous,0.00,0.00,0.00,0.00,,Paid,""
+11,"Jenelle Wangari",,0001-01-01,Miscellaneous,0.00,0.00,0.00,0.00,,Paid,""

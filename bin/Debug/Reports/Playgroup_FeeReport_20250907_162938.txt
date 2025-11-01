@@ -1,0 +1,24 @@
+﻿================================================================================
+FEE REPORT - Playgroup - p
+Academic Year: 2025
+Generated: 2025-09-07 16:29:38
+================================================================================
+
+SUMMARY:
+Total Students: 1
+Total Fees: 1
+Total Fees Amount: $6,000.00
+Total Paid: $4,000.00
+Total Outstanding: $2,000.00
+Payment Progress: 66.7%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Liam Bray (ID: 1)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $6,000.00 | Paid: $4,000.00 | Outstanding: $2,000.00 | Progress: 66.7%
+Fee Details:
+  ◐ Tuition - $6,000.00 (Paid: $4,000.00) Due:  Status: PartiallyPaid
+

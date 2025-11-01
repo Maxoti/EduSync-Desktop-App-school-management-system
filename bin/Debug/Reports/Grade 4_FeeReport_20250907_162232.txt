@@ -1,0 +1,24 @@
+﻿================================================================================
+FEE REPORT - Grade 4 - A
+Academic Year: 2025
+Generated: 2025-09-07 16:22:32
+================================================================================
+
+SUMMARY:
+Total Students: 1
+Total Fees: 1
+Total Fees Amount: $0.00
+Total Paid: $0.00
+Total Outstanding: $0.00
+Payment Progress: 0.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: James Ouma (ID: 14)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $0.00 | Paid: $0.00 | Outstanding: $0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - $0.00 (Paid: $0.00) Due:  Status: Paid
+

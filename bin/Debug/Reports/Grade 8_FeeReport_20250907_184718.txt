@@ -1,0 +1,24 @@
+﻿================================================================================
+FEE REPORT - Grade 8 - A
+Academic Year: 2025
+Generated: 2025-09-07 18:47:18
+================================================================================
+
+SUMMARY:
+Total Students: 1
+Total Fees: 1
+Total Fees Amount: $10,000.00
+Total Paid: $7,000.00
+Total Outstanding: $3,000.00
+Payment Progress: 70.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Bruce Lee (ID: 7)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $10,000.00 | Paid: $7,000.00 | Outstanding: $3,000.00 | Progress: 70.0%
+Fee Details:
+  ◐ Tuition - $10,000.00 (Paid: $7,000.00) Due:  Status: PartiallyPaid
+

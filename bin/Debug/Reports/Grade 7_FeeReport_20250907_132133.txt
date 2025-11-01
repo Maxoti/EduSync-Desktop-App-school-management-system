@@ -1,0 +1,24 @@
+﻿================================================================================
+FEE REPORT - Grade 7 - A
+Academic Year: 2025
+Generated: 2025-09-07 13:21:33
+================================================================================
+
+SUMMARY:
+Total Students: 1
+Total Fees: 1
+Total Fees Amount: $0.00
+Total Paid: $0.00
+Total Outstanding: $0.00
+Payment Progress: 0.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Ethan Langat (ID: 8)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $0.00 | Paid: $0.00 | Outstanding: $0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - $0.00 (Paid: $0.00) Due:  Status: Paid
+

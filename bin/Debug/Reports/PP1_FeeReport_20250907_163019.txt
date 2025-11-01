@@ -1,0 +1,24 @@
+﻿================================================================================
+FEE REPORT - PP1 - A
+Academic Year: 2025
+Generated: 2025-09-07 16:30:19
+================================================================================
+
+SUMMARY:
+Total Students: 1
+Total Fees: 1
+Total Fees Amount: $7,000.00
+Total Paid: $3,500.00
+Total Outstanding: $3,500.00
+Payment Progress: 50.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Aron Mwai (ID: 2)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $7,000.00 | Paid: $3,500.00 | Outstanding: $3,500.00 | Progress: 50.0%
+Fee Details:
+  ◐ Tuition - $7,000.00 (Paid: $3,500.00) Due:  Status: PartiallyPaid
+

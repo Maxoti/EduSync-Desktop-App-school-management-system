@@ -1,0 +1,52 @@
+﻿================================================================================
+FEE REPORT - Grade 6 - A
+Academic Year: 2025
+Generated: 2025-09-07 20:53:45
+================================================================================
+
+SUMMARY:
+Total Students: 5
+Total Fees: 5
+Total Fees Amount: $22,000.00
+Total Paid: $11,000.00
+Total Outstanding: $11,000.00
+Payment Progress: 50.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Alex Mbatha (ID: 4)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $14,000.00 | Paid: $6,000.00 | Outstanding: $8,000.00 | Progress: 42.9%
+Fee Details:
+  ◐ Miscellaneous - $14,000.00 (Paid: $6,000.00) Due:  Status: PartiallyPaid
+
+Student: Donnel Kassim (ID: 5)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $8,000.00 | Paid: $5,000.00 | Outstanding: $3,000.00 | Progress: 62.5%
+Fee Details:
+  ◐ Tuition - $8,000.00 (Paid: $5,000.00) Due:  Status: PartiallyPaid
+
+Student: Elian Gichuki (ID: 9)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $0.00 | Paid: $0.00 | Outstanding: $0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - $0.00 (Paid: $0.00) Due:  Status: Paid
+
+Student: Jasmine June (ID: 10)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $0.00 | Paid: $0.00 | Outstanding: $0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - $0.00 (Paid: $0.00) Due:  Status: Paid
+
+Student: Jenelle Wangari (ID: 11)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: $0.00 | Paid: $0.00 | Outstanding: $0.00 | Progress: 0.0%
+Fee Details:
+  ✓ Miscellaneous - $0.00 (Paid: $0.00) Due:  Status: Paid
+

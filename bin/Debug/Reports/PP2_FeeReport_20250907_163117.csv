@@ -1,0 +1,2 @@
+﻿StudentID,StudentName,Email,EnrollmentDate,FeeType,Amount,AmountPaid,Outstanding,PaymentPercentage,DueDate,Status,Description
+3,"Mikel Oduor",,0001-01-01,Tuition,8000.00,4000.00,4000.00,50.00,,PartiallyPaid,""

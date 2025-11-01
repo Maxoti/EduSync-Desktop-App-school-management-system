@@ -1,0 +1,25 @@
+﻿================================================================================
+FEE REPORT - PP1 - A
+Academic Year: 2025
+Generated: 2025-09-11 23:06:22
+Currency: Kenyan Shilling (KSH) - Exchange Rate: 1 USD = KSh 129.0595
+================================================================================
+
+SUMMARY:
+Total Students: 1
+Total Fees: 1
+Total Fees Amount: KSh 7,000.00
+Total Paid: KSh 3,500.00
+Total Outstanding: KSh 3,500.00
+Payment Progress: 50.0%
+Total Overdue Fees: 0
+
+DETAILED STUDENT REPORTS:
+--------------------------------------------------------------------------------
+Student: Aron Mwai (ID: 2)
+Email: 
+Enrollment Date: 0001-01-01
+Total Amount: KSh 7,000.00 | Paid: KSh 3,500.00 | Outstanding: KSh 3,500.00 | Progress: 50.0%
+Fee Details:
+  ◐ Tuition - KSh 7,000.00 (Paid: KSh 3,500.00) Due:  Status: PartiallyPaid
+
